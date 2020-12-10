@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
   dwmmailweather () {
   	
-	username="philgiddyboy@googlemail.com"
-	password="revelation00end"
+	username="p"
+	password="r"
 	
 	oldtime=$(cat /home/phil/dwm-bar/bar-functions/epochtime)
 	current=$(date +%s)
